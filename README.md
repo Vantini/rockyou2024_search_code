@@ -11,7 +11,7 @@ The script reads the file in binary mode, dividing it into configurable-sized ch
     - Python 3.x
 
   ### Instructions
-		-Clone the repository or copy the script to your local environment.
+    -Clone the repository or copy the script to your local environment.
     - Ensure that the rockyou2024.txt file is available at the specified path.
     - Run the script with the required arguments:
 ```	
